@@ -1,0 +1,3 @@
+.table-sm>:not(caption)>*>* {
+    padding: 0px 0px;
+}
